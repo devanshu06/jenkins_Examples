@@ -1,4 +1,4 @@
-echo "This is the first edit"
+echo "This is the Second edit"
 date
 cal
-exho "bye"
+echo "bye"
